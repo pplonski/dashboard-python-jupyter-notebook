@@ -1,0 +1,3 @@
+mljar-mercury
+mplfinance
+yfinance

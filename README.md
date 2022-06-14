@@ -12,3 +12,7 @@ The article on <a href="https://mljar.com/blog/dashboard-python-jupyter-notebook
 
 ## Dahsboard web app
 ![](https://raw.githubusercontent.com/pplonski/dashboard-python-jupyter-notebook/main/media/jupyter-dashboard-finance.gif)
+
+
+## Export notebook to PDF 
+![](https://raw.githubusercontent.com/pplonski/dashboard-python-jupyter-notebook/main/media/notebook-to-pdf.gif)
